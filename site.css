@@ -1,0 +1,29 @@
+body {
+  background-color: grey;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+.whiteBack {
+  background-color: white;
+}
+
+.blackBack {
+  background-color: black;
+}
+
+.blueBack {
+  background-color: blue;
+}
+
+.redBack {
+  background-color: red;
+}
+
+.greenBack {
+  background-color: green;
+}
